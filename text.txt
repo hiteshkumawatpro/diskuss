@@ -1,0 +1,5 @@
+‘The maximum power output capability of a gasoline or diesel engine decreases with altitude because the air density and hence the
+mass flow rate of air decreases. A truck leaves Denver (elevation 5280 ft) on a day when the local temperature and barometric
+pressure are 80°F and 24.8 in, of mercury, respectively. Ittravels through Vail Pass (elevation 10,600 ft), where the temperature is
+62°F, Determine the local barometric pressure at Vail Pass and the percent change in density.
+
